@@ -1,6 +1,6 @@
 👋 Hi, I’m @MuniraHassim  
 👀 I’m interested in technology, software development, and cybersecurity.  
-🌱 I’m currently learning full-stack web development and cloud computing.  
+🌱 I’m currently learning Software,Intelligent System and cloud Security.  
 🤝 I’m looking to collaborate on open-source projects, hackathons, and tech communities.  
 📫 How to reach me: Email : munirahassim123@gmail.com   
 ⚡ Fun fact: I love exploring new programming languages and building cool tech projects! 
